@@ -1,0 +1,87 @@
+@-moz-document domain("www.google.com") {
+  ::-moz-selection {
+    background: #eee8d5;
+    color: #000;
+  }
+  ::selection {
+    background: #eee8d5;
+    color: #000;
+  }
+  .hp #main, .hp #appbar, .hp #viewport, .hp #fbar {
+    background: #eee8d5 !important;
+  }
+  .hp #sfdiv, .hp #sfdiv:hover, .hp .sbfcn, .hp #lst-ib {
+    background: #fdf6e3 !important;
+  }
+  #hplogo {
+    background-image: url('https://drive.google.com/uc?id=0B2K6AHAKA5EXeFk2VW5hVlQ5bDg') !important;
+  }
+  #logo img, #logocont img {
+    background-color: #fbf5e5;
+  }
+  #hdtb, .sfbg, .sfbgg, .sfbgx, #hdtbSum {
+    background: #eee8d5 !important;
+  }
+  #sfdiv, #sfdiv:hover, .sbfcn {
+	border-color: transparent !important;
+  background: #fdf6e3 !important;
+  }
+  #lst-ib {
+	color: #425358 !important;
+	background: #fdf6e3 !important;
+  }
+  .jhp input[type="submit"] {
+	background: #e3d9b9 !important;
+	color: #667174 !important;
+  }
+  .hdtb-mitem a, #hdtb-tls, ._ojo h3, ._axe .kno-ecr-pt {
+	color: #586e75 !important;
+  }
+  #hdtb-msb .hdtb-mitem.hdtb-msel, #hdtb-msb .hdtb-mitem.hdtb-msel-pre {
+	color: #6c71c4 !important;
+  }
+  #hdtb .hdtb-mitem.hdtb-msel:before{
+  border-color: #6c71c4 !important;
+  box-shadow: 0 0.5px 4px 0 #5a5fbd;
+  }
+  #main, #appbar, #viewport, #fbar {
+    background: #fef7e2 !important;
+  }
+  .g, .kp-blk, ._NId {
+	background: #fff9ec !important;
+	box-shadow: 0 0.5px 3px 0 rgba(0,0,0,0.2);
+  }
+  .g a, ._dTj, ._MLo, ._NLo, #center_col ._Ak a._kBb {
+  color: #268bd2 !important;
+  }
+  .s, .s .st em, .st.s.std em, ._AOf, .st, .kno-fb-ctx, ._xdb .fl, #center_col ._Ak, .ads-creative b, body, ._W5e a, a._Zjg, .kno-ftr, a.duf3 {
+	color: #657b83 !important;
+  }
+  ._Wmc, .f, ._v5, ._cwc, ._gdf {
+	color: #93a1a1 !important;
+  }
+  ._IId, .a, cite, cite a:link, cite a:visited, .cite, .cite:link, #_bGc>i, .bc a:link {
+	color: #2aa198 !important;
+  }
+  ._Rm, .mn-dwn-arw {
+  color: #2aa198 !important;
+	border-color: #2aa198 transparent !important;
+  }
+  .r a:before {
+	background: #fef7e2 !important;
+  }
+  .r a:visited:before {
+	background: #d84b8f !important;
+  }
+  
+  g-scrolling-carousel, g-card-grid {
+	background: url('https://drive.google.com/uc?id=0B2K6AHAKA5EXMkdiYVRiTmYyLU0') no-repeat !important;
+  }
+  g-inner-card {
+	background: #fff9ec !important;
+  }
+  
+  #brs b, #brs a {
+	color: #deac12;
+  }
+}
