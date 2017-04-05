@@ -1,0 +1,80 @@
+@-moz-document domain("www.google.com") {
+  ::-moz-selection {
+    background: #073642;
+    color: #FFF;
+  }
+  ::selection {
+    background: #073642;
+    color: #FFF;
+  }
+  .hp #main, .hp #appbar, .hp #viewport, .hp #fbar {
+    background: #073642 !important;
+  }
+  .hp #sfdiv, .hp #sfdiv:hover, .hp .sbfcn, .hp #lst-ib {
+    background: #094959 !important;
+  }
+  #hplogo {
+    background-image: url('https://drive.google.com/uc?id=0B2K6AHAKA5EXeFk2VW5hVlQ5bDg') !important;
+  }
+  #hdtb, .sfbg, .sfbgg, .sfbgx, #hdtbSum {
+    background: #073642 !important;
+  }
+  #sfdiv, #sfdiv:hover, .sbfcn {
+	border-color: transparent !important;
+  background: #002b36 !important;
+  }
+  #lst-ib {
+	color: #aeb9b9 !important;
+	background: #002b36 !important;
+  }
+  .hdtb-mitem a, #hdtb-tls, ._ojo h3 {
+	color: #93a1a1 !important;
+  }
+  #hdtb-msb .hdtb-mitem.hdtb-msel, #hdtb-msb .hdtb-mitem.hdtb-msel-pre {
+	color: #dda700 !important;
+  }
+  #hdtb .hdtb-mitem.hdtb-msel:before{
+  border-color: #dda700 !important;
+  box-shadow: 0 0.5px 4px 0 #c49400;
+  }
+  #main, #appbar, #viewport, #fbar {
+    background: #0f5061 !important;
+  }
+  .g, .kp-blk, ._NId {
+	background: #0d4350 !important;
+	box-shadow: 0 1px 4px 0 rgba(0,0,0,0.4);
+  }
+  .s, .s .st em, .st.s.std em, ._AOf, .st, .kno-fb-ctx, ._xdb .fl, #center_col ._Ak, .ads-creative b, body {
+	color: #839496 !important;
+  }
+  ._Wmc, .f, ._v5, ._cwc {
+	color: #586e75 !important;
+  }
+  .g a, ._dTj, ._MLo, ._NLo, #center_col ._Ak a._kBb {
+    color: #268bd2 !important;
+  }
+  ._IId, .a, cite, cite a:link, cite a:visited, .cite, .cite:link, #_bGc>i, .bc a:link {
+	color: #2aa198 !important;
+  }
+  ._Rm, .mn-dwn-arw {
+    color: #2aa198 !important;
+	border-color: #2aa198 transparent !important;
+  }
+  .r a:before {
+	background: #0f5061 !important;
+  }
+  .r a:visited:before {
+	background: #a92565 !important;
+  }
+  
+  g-scrolling-carousel, g-card-grid {
+	background: url('https://drive.google.com/uc?id=0B2K6AHAKA5EXMkdiYVRiTmYyLU0') no-repeat !important;
+  }
+  g-inner-card {
+	background: #024a5b !important;
+  }
+  
+  #brs b, #brs a {
+	color: #6c71c4;
+  }
+}
